@@ -1,3 +1,5 @@
+import './styles/index.scss';
+
 const duneChars = {
   paul: "main character",
   leto: "king of Caladan",
