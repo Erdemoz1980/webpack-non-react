@@ -4,4 +4,11 @@ const duneChars = {
   ladyJessica: "paul's mother"
 };
 
-console.log(duneChars)
+const dune2Chars = {
+  ...duneChars,
+  duncanIdaho: "a highly skilled pilot",
+
+}
+
+console.log(duneChars);
+console.log(dune2Chars);
